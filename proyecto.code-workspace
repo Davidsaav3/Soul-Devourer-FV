@@ -1,0 +1,90 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		
+		//Aquí se agrega cada subproyecto, separado por comas
+		{
+			"name": "PROT: prot_general",
+			"path": "src/pro/prot_general"
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on",
+		"files.associations": {
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"iostream": "cpp",
+			"stack": "cpp",
+			"map": "cpp",
+			"ctime": "cpp",
+<<<<<<< HEAD
+			"*.tcc": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+=======
+<<<<<<< HEAD
+			"array": "cpp",
+			"atomic": "cpp",
+			"*.tcc": "cpp",
+>>>>>>> 54bf3e846003f51ab4ee42a726ff7a7f7b51d0a3
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+<<<<<<< HEAD
+=======
+			"cstring": "cpp",
+>>>>>>> 54bf3e846003f51ab4ee42a726ff7a7f7b51d0a3
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"unordered_map": "cpp",
+			"exception": "cpp",
+			"algorithm": "cpp",
+<<<<<<< HEAD
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+=======
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"optional": "cpp",
+			"set": "cpp",
+>>>>>>> 54bf3e846003f51ab4ee42a726ff7a7f7b51d0a3
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp"
+<<<<<<< HEAD
+=======
+=======
+			"*.tcc": "cpp"
+>>>>>>> 8f5dfbb854cc979c6fcfe62975adac6b2601fa9e
+>>>>>>> 54bf3e846003f51ab4ee42a726ff7a7f7b51d0a3
+		}
+	}
+}

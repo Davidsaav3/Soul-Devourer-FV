@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+src/pro/prot_david/build/*
+src/pro/prot_alexu/build/*
+src/pro/prot_isabel/build/*
+src/pro/prot_javi/build/*
+src/pro/prot_alex/build/*
+
+pro/prot_david/build/*
+pro/prot_alexu/build/*
+pro/prot_isabel/build/*
+pro/prot_javi/build/*
+pro/prot_alex/build/*
+
+/build
+build/
